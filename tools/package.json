@@ -34,7 +34,7 @@
     "@expo/xcodegen": "2.18.0-patch.1",
     "@expo/xdl": "^59.2.1",
     "@linear/sdk": "^2.6.0",
-    "@octokit/rest": "^19.0.7",
+    "@octokit/rest": "^19.0.13",
     "body-parser": "^1.20.0",
     "chalk": "^4.1.2",
     "cli-table3": "^0.6.2",
