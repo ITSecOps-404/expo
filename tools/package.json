@@ -24,7 +24,7 @@
   "author": "support@expo.dev",
   "license": "MIT",
   "dependencies": {
-    "@aws-sdk/client-s3": "^3.441.0",
+    "@aws-sdk/client-s3": "^3.509.0",
     "@expo/commander": "2.21.1",
     "@expo/json-file": "^8.2.37",
     "@expo/multipart-body-parser": "^1.1.0",
